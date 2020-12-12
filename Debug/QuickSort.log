@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\QuickSort\Source.cpp(19,11): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\QuickSort\Source.cpp(32,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\QuickSort\Source.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\QuickSort\Source.cpp(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\QuickSort\Source.cpp(67,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\QuickSort\Source.cpp(117,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  QuickSort.vcxproj -> C:\Users\HP\source\repos\QuickSort\Debug\QuickSort.exe
