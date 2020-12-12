@@ -96,23 +96,7 @@ void countBed(int** arr, size_t rows, size_t cols)
 
 int main()
 {	
-	srand(time(0));
-	/*const size_t size = 20;
-	int arr[size];
-	for (size_t i = 0; i < size; i++)
-	{
-		arr[i] = rand() % 100;
-		std::cout << arr[i] << " ";
-	}
-	std::cout << std::endl;
-	quickSort(arr, size - 1);
-	for (size_t i = 0; i < size; i++)
-	{
-		std::cout << arr[i] << " ";
-	}
-	std::cout << std::endl;*/
-
-	// 4. Garden split in square cells with side 1 meter, garden's size (M * N)m2. Beds are rectangular and don't touch at any side.
+	// Garden split in square cells with side 1 meter, garden's size (M * N)m2. Beds are rectangular and don't touch at any side.
 	// Determine number of all beds and square beds. Represent garden as a dynamic matrix. Beds as ones '1' and empty areas as zeros '0'.
 
 	int** arr = nullptr;
